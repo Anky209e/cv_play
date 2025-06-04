@@ -12,7 +12,7 @@ This repository contains solutions for **all  three computer vision tasks** as d
 - **Input:** 15–20 second `.mp4` video.
 - **Processing:** Every 5th frame is analyzed.
 
-![image](cv_play/detection_summary/class_frequency.png)
+![image](/detection_summary/class_frequency.png)
 
 ---
 
@@ -24,7 +24,7 @@ This repository contains solutions for **all  three computer vision tasks** as d
 - **Logging:** Alerts saved in `.json` or `.txt`.
 - **Visualization:** Timeline plot of alert occurrences.
 
-![image](cv_play/realtime_alerts/output/people_count_plot.png)
+![image](/realtime_alerts/output/people_count_plot.png)
 ---
 
 ### Task 3: Model Comparison & Docker Deployment
